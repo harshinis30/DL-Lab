@@ -1,6 +1,8 @@
-# 🧠 dl-labs
+# Deep Learning - Lab excercise
 
-> Deep Learning Programming Assignments | IIITDM | 2025-26
+
+
+A hands-on collection of deep learning labs covering core concepts — from building neural networks from scratch to transformers and vision models. Each lab is designed to reinforce theoretical understanding through practical implementation.
 
 ---
 
@@ -52,6 +54,12 @@ pip install scikit-learn matplotlib numpy pandas
 
 ---
 
+## 📄 Naming Convention
+
+```
+CS23B1050_lab01.ipynb
+CS23B1050_lab03_report.pdf
+```
 
 ---
 
