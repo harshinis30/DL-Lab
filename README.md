@@ -54,12 +54,7 @@ pip install scikit-learn matplotlib numpy pandas
 
 ---
 
-## 📄 Naming Convention
 
-```
-CS23B1050_lab01.ipynb
-CS23B1050_lab03_report.pdf
-```
 
 ---
 
